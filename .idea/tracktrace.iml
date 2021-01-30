@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/protected/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="test-repository" />
+  </component>
+</module>
